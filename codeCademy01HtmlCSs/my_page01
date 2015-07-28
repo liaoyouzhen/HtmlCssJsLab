@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<meta charset="utf-8" />
+		<title>my_first_page01</title>
+	</head>
+	<body>
+		<div id="header">
+		<p id="name">AB_zhenzi</p>			
+		<a href="http://mail.qq.com/cgi-bin/frame_html?sid=BH_qmz-XqKkcUTJn&r=80e4e76bcf17115a940c4f28a5645801"><p id="email">1661052027@qq.com</p></a>
+		</div>
+		<div class="left">
+			
+		</div>
+		<div class="right">
+					<h3>Best wishs</h3>
+			<p>Everyone is healthy</p>
+			<h3>Favority</h3>			
+			<ul>
+				<li>playing computer games</li>
+				<li>singing</li>
+			</ul>
+					<h3>Education Experience</h3>						
+			<ol>
+				<li>chengzhang junior school</li>
+				<li>No.8 Middel school</li>
+				<li>CUC</li>
+			</ol>	
+		</div>
+		<div id="Contact information">
+			<p>kaifujingyuan, hunan hengyang | Tel: 12345678</p>
+		</div>
+	</body>
+</html>
