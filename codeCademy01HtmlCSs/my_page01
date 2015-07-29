@@ -11,7 +11,7 @@
 		<a href="http://mail.qq.com/cgi-bin/frame_html?sid=BH_qmz-XqKkcUTJn&r=80e4e76bcf17115a940c4f28a5645801"><p id="email">1661052027@qq.com</p></a>
 		</div>
 		<div class="left">
-			
+		<img src="http://img2.imgtn.bdimg.com/it/u=3888036095,1902370195&fm=21&gp=0.jpg" />	
 		</div>
 		<div class="right">
 					<h3>Best wishs</h3>
@@ -21,15 +21,21 @@
 				<li>playing computer games</li>
 				<li>singing</li>
 			</ul>
-					<h3>Education Experience</h3>						
-			<ol>
-				<li>chengzhang junior school</li>
-				<li>No.8 Middel school</li>
-				<li>CUC</li>
-			</ol>	
+			<table>
+				<thead>
+                <tr><th>year</th>
+                <th>exprience</th>
+</tr>
+      </thead>
+       <tbody>
+       	<tr><td>2001 </td><td>	chengzhang junior school</td></tr>
+       	<tr><td>2007 </td><td>	No.8 Middel school</td></tr>
+       	<tr><td>2013 </td><td>	CUC</td></tr>
+       </tbody>
+</table>
 		</div>
 		<div id="Contact information">
-			<p>kaifujingyuan, hunan hengyang | Tel: 12345678</p>
+			<p>kaifujignyuan, hunan hengyang | Tel: 12345678</p>
 		</div>
 	</body>
 </html>
