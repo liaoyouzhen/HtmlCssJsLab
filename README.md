@@ -115,20 +115,34 @@ p:nth-child(5) {
     font-size :22px;
 }
 (display:inline-block and margin-left: 5px). 
+
 block: This makes the element a block box. It won't let anything sit next to it on the page! It takes up the full width.
+
 inline-block: This makes the element a block box, but will allow other elements to sit next to it on the same line.
-inline: This makes the element sit on the same line as another element, but without formatting it like a block. It only takes up as much width as it needs (not the whole line).
+
+inline: This makes the element sit on the same line as another element, but without formatting it like a block. It 
+only takes up as much width as it needs (not the whole line).
+
 none: This makes the element and its content disappear from the page entirely
+
 margin-top: /*some value*/
+
 margin-right: /*some value*/
+
 margin-bottom: /*some value*/
+
 margin-left: /*some-value*/
 
 margin: 1px 2px 3px 4px; will set a top margin of 1 pixel, a right margin of 2, a bottom of 3, and a left of 4.
+
 padding-top: /*some value*/
+
 padding-right: /*some value*/
+
 padding-bottom: /*some value*/
+
 padding-left: /*some-value*/
+
 padding: value value value value;
 
 element {
