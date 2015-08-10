@@ -44,33 +44,58 @@ body的标题是heading tags标记，比如<h1></h1>之间能显示大字。
 </ul>
 注释（不显示）
 <!-- Make me into a comment. -->
+
 字体大小
+
 <p style="font-size: 10px"> Some text for you to make tiny! </p>
+
 字体颜色+大小改变
+
 <h1 style="color: green; font-size:16px">
+
 字体
+
 style="font-family: Arial"
+
 加粗<strong></strong>
+
 变斜<em></em>
+
 背景颜色background-color:yelow
+
 表格<table></table>
+
 行<tr></tr>
+
 没有列，用行来表示
+
 列<td></td>
+
 表头
+
 <thead>
                 <tr>
+
                 <th>Famous Monster</th>
+
                 <th>Birth Year</th>
+
                 </tr>
       </thead>
+
        <tbody></tbody>
 合并列<th colspan="2">合并2列
+
 页面分区：<div>
+
 最小的字体及其他变化<span></span>
+
 css的stylesheet.css
+
 <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+
 <style>
+
 			p {
 				color: purple;
 			}
@@ -82,9 +107,13 @@ selector {
     property: value;
 }
 16进制颜色表示：#1111
+
 可尝试第一个，若电脑中没有则使用第二个，以此类推font-family: Times, serif;
+
 border可兼容多个属性值比如border:1px solid black.
+
 button:
+
 div
 {
     height: 50px;
